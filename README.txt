@@ -3,3 +3,8 @@
 
 1. BASolution with C
 2. PCProgram with C#
+
+개발자 목록
+  1. LTK-ihchoi
+  2. inhwa choi
+  3. tongji98
